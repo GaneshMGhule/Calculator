@@ -1,35 +1,48 @@
-📌 Project Title:
-Simple Calculator Using HTML, CSS, and JavaScript
+# 📌 Project Title:  
+**Simple Calculator Using HTML, CSS, and JavaScript**
 
-📝 Project Description:
-This project is a basic web-based calculator developed using HTML, CSS, and JavaScript. The calculator performs simple arithmetic operations such as addition, subtraction, multiplication, and division. It provides a clean and responsive user interface and functions like a typical handheld calculator.
+---
 
-The purpose of the project is to demonstrate how front-end web technologies can be used together to create an interactive and functional web application. The HTML is used for structuring the calculator layout, CSS is used to style and position the components, and JavaScript handles the logic and interactivity.
+## 📝 Project Description
 
-🎯 Key Features:
-User-friendly interface
+This project is a basic web-based calculator developed using **HTML**, **CSS**, and **JavaScript**. The calculator performs simple arithmetic operations such as **addition**, **subtraction**, **multiplication**, and **division**. It provides a clean and responsive user interface and functions like a typical handheld calculator.
 
-Supports basic arithmetic operations
+The purpose of the project is to demonstrate how front-end web technologies can be used together to create an interactive and functional web application.  
+- **HTML** is used for structuring the calculator layout  
+- **CSS** is used to style and position the components  
+- **JavaScript** handles the logic and interactivity  
 
-Responsive design suitable for mobile and desktop
+---
 
-Error handling for invalid inputs (like division by zero)
+## 🎯 Key Features
 
-Clear button to reset input
+- ✅ User-friendly interface  
+- ➕ Supports basic arithmetic operations  
+- 📱 Responsive design suitable for mobile and desktop  
+- ⚠️ Error handling for invalid inputs (like division by zero)  
+- 🧹 Clear button to reset input  
 
-🛠️ Technologies Used:
-HTML: To build the structure of the calculator
+---
 
-CSS: To style the calculator (buttons, display, layout)
+## 🛠️ Technologies Used
 
-JavaScript: To add functionality and handle user input and calculations
+- **HTML** – To build the structure of the calculator  
+- **CSS** – To style the calculator (buttons, display, layout)  
+- **JavaScript** – To add functionality and handle user input and calculations  
 
-🎓 Learning Outcomes:
-Understanding of basic web development technologies
+---
 
-Hands-on experience with event handling in JavaScript
+## 🎓 Learning Outcomes
 
-Practice building UI elements using HTML and CSS
+- ✅ Understanding of basic web development technologies  
+- 🧠 Hands-on experience with event handling in JavaScript  
+- 🎨 Practice building UI elements using HTML and CSS  
+- 🧮 Logical thinking through implementing calculator functions  
 
-Logical thinking through implementing calculator functions
+---
 
+## 📂 How to Run the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/calculator.git
