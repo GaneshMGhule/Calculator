@@ -40,9 +40,3 @@ The purpose of the project is to demonstrate how front-end web technologies can 
 - 🧮 Logical thinking through implementing calculator functions  
 
 ---
-
-## 📂 How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/calculator.git
